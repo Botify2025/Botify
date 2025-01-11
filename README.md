@@ -1,4 +1,4 @@
-# BOTIFY
+# BOTIFY - Music Recommendation System
 
 # React Vitest Template
 
